@@ -1,2 +1,2 @@
 # cifar-10_CNN
-Convolutional Neural Network to classify images
+Use Keras Sequential API to learn how to train and test a model based on Convolutional Neural Network to classify CIFAR-10 images.
